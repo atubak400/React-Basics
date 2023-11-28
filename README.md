@@ -1,7 +1,11 @@
 # React Basics
-![create react app](./img/1.png)
+![create react app](./img/react-logo.jpg)
 
-1. Download and install node from official website
+1. Download and install Node.js from official website: 
+
+```
+https://nodejs.org/en/download/
+```
 
 2. Create a project folder
 
